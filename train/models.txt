@@ -1,0 +1,2 @@
+v0: Training to reconstruct the original image.
+v1: Training to reconstruct the support of the original image.
