@@ -1,3 +1,3 @@
 # CT Reconstruction using Deep Learning
 
-This repository has codes using [AUTOMAP](https://www.nature.com/articles/nature25988) and the following MRI/CT [dataset](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri), in order to reconstruct CT images in missing data situations. This project was done at the Cientific Computing Group (GCC) at LNLS-CNPEM, under supervision of researcher Eduardo Miqueles.
+This repository has codes using [AUTOMAP](https://www.nature.com/articles/nature25988) and the following MRI/CT [dataset](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri), in order to reconstruct CT images in missing data situations. This project was done at the Scientific Computing Group (GCC) at LNLS-CNPEM, under supervision of researcher Eduardo Miqueles.
